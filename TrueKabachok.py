@@ -250,4 +250,4 @@ async def poke(ctx):
     await ctx.send(image_url)
     
 
-bot.run("Nzc2NjcxNjgyMjQzODU0MzU2.GyY7tL.t6vMroKxJI5aFf3qY7vot8n1YfAReRMzw2siRg")
+bot.run("insert token")
